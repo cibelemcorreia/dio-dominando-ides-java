@@ -1,2 +1,2 @@
-# dio-dominando-ides-java
-Instalação (JDK, Git, IntelliJ e Eclipse)
+# Repositório com instruções do curso Dominando IDEs Java
+:gear: Instalação (JDK, Git, IntelliJ e Eclipse)
